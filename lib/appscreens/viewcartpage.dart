@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'cart.dart';
 import 'order-api.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'payment.dart';z
+import 'payment.dart';
 
 
 class viewcartpage extends StatefulWidget {
