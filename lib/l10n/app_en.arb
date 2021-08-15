@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+
+  "sevafarm": "SEVAFARM",
+  "@sevafarm": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}
